@@ -108,10 +108,13 @@ has its own learned weight, directly influencing price.
 ``` bash
 pip install -r requirements.txt
 python server.py
+open the app.html
 ```
 
 ------------------------------------------------------------------------
-
+## 📊 Final Output
+![Final Chart](imag1.png)
+-----------------------------------------------------------------------
 ## 🎯 Key Learnings
 
 -   Real-world data cleaning techniques
